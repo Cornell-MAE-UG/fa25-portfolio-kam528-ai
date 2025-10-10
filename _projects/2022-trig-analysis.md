@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Portfolio Project 2
+description: tbd
+technologies: [tbd, tbd]
 image: /assets/images/function-graph.png
 ---
 

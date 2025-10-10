@@ -1,70 +1,63 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Kathryn Moskal - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/Kathryn_Moskal_CV (2025).pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [kam528@cornell.edu](kam528@cornell.edu) | | | **Phone:** +8605434348
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical engineering and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+   GPA | Graduation: June, 2028
 
-- **[High School Name]**  
+- **[Hall High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, OnShape CAD, ANSYS  
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
+- **[Lift Mechanism]**:  
+  *[Mechanism design for lifting the highest amount of weight with a 1.5m bar and RSA actuator]*  
+  - Designed system from scratch
+  - Found the max amount of weight the system can lift 
+  Note: I'm leaving the extra genral information so I can fill it out in the future when it's applicable. 
+
+- **[potfolio Project 2]**:  
+  *[tbd Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [GE Scholarship], [General Elecric Vernova], [2024]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [Project Team Design Build Fly]  
+- Member of [Cornell Astra Lab]  
 
 ---
 

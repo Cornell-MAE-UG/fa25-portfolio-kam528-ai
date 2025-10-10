@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Portfolio Project 3
+description: Tbd
+technologies: [Tbd]
 image: /assets/images/spaceship-design.jpg
 ---
 
