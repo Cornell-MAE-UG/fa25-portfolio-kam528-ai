@@ -1,0 +1,44 @@
+---
+layout: project
+title: Portfolio Project 2
+description: Hands-on thermodynamics project analyzing the performance of a counter-flow heat exchanger under varying operating conditions
+technologies: [Thermodynamics, Heat Exchangers, Energy Balance, Entropy Analysis, Experimental Methods]
+image: /assets/images/heat_exchnager_setup.jpg
+image: /assets/images/thermo_points.jpg
+---
+
+
+Heat Exchanger Details: A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. In the setup, the exchanger contains two internal flow channels separated by thin metal walls. One channel carries hot water from the heated reservoir, and the other carries cold water from the insulated reservoir. Because the fluids never physically touch each other—only the metal barrier—heat transfers by conduction through the wall, followed by convection between the wall and each fluid.
+
+Operating Condtions Tested: 
+
+Parallel Flow (Control Group): Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes.
+2/4 hot side of the pump becomes warmer compared to the 1/3 side with cold flow.
+
+Counter Flow: The hot and cold streams move in opposite directions, keeping a large temperature difference across the entire heat exchanger. This configuration is much more effective, allowing greater heat transfer and enabling the cold outlet to approach the hot inlet temperature more closely.
+Teperature hot the hot increased much more rapidly than the parallel flow.
+The hot flow become colder and the cold became hotter in temperature, which is only possible with counter flow
+
+Parallel Flow (Hotter Liquid): A higher hot inlet temperature increases the driving temperature difference and raises the heat-transfer rate. Lowering it weakens heat transfer and reduces cold-side heating.
+There were no dramatic changes when increasing the starting temperature in the heat exchanger.
+
+Change of Relative Flow (Tube Pinching): The side with the lower flow rate experiences a larger temperature change and becomes the limiting stream. The higher-flow stream changes temperature less because it carries more thermal mass.
+The flow of the slwoed hot restulted in a much smaller amount water in the end bucket, and it had a greater temperature change than the cold.
+
+Heat exchangers appear anywhere heat needs to transfer between fluids without mixing. Examples include car radiators, home HVAC systems, power-plant condensers, industrial process coolers and heaters, refrigeration systems, and renewable-energy systems like geothermal heat pumps.
+
+Even with temperature-controlled reservoirs, the heat exchanger is not perfectly adiabatic. Heat is still lost or gained through:
+    the exposed metal body of the exchanger
+    uninsulated tubing
+    ambient air interacting with the system
+These external losses mean the heat gained by the cold stream will be slightly less than the heat lost by the hot stream.
+
+In our setup, the kinetic energy changes are not negligible, because we can physically feel the outside of the heat exchanger becoming warmer during operation. This indicates that pump-driven flow creates noticeable frictional losses and turbulence inside the channels, converting kinetic energy into thermal energy. As a result, some heating occurs due to flow resistance, meaning KE effects contribute to the overall temperature changes.
+
+
+
+
+
+
+
+

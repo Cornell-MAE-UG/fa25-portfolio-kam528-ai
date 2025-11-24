@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Portfolio Project 2
+title: Portfolio Project 3
 description: tbd
 technologies: [tbd, tbd]
 image: /assets/images/function-graph.png
