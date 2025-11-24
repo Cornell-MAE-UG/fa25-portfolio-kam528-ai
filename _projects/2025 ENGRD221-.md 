@@ -7,7 +7,10 @@ image: /fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg
 ---
 Heat Exchanger Details: A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. In the setup, the exchanger contains two internal flow channels separated by thin metal walls. One channel carries hot water from the heated reservoir, and the other carries cold water from the insulated reservoir. Because the fluids never physically touch each other—only the metal barrier—heat transfers by conduction through the wall, followed by convection between the wall and each fluid.
 
-![Temperature measurement points](/fa25-portfolio-kam528-ai/assets/images/thermo_points.JPG)
+<p style="text-align:center;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/thermo_points.JPG"
+       alt="Temperature measurement points">
+</p>
 
 
 Operating Conditions Tested:
