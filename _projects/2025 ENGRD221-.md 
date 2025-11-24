@@ -4,13 +4,12 @@ title: Portfolio Project 2
 description: Hands-on thermodynamics project analyzing the performance of a counter-flow heat exchanger under varying operating conditions
 technologies: [Thermodynamics, Heat Exchangers, Energy Balance, Entropy Analysis, Experimental Methods]
 image: /assets/images/heat_exchnager_setup.jpg
-image: /assets/images/thermo_points.jpg
 ---
-
-
 Heat Exchanger Details: A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. In the setup, the exchanger contains two internal flow channels separated by thin metal walls. One channel carries hot water from the heated reservoir, and the other carries cold water from the insulated reservoir. Because the fluids never physically touch each other—only the metal barrier—heat transfers by conduction through the wall, followed by convection between the wall and each fluid.
 
-Operating Condtions Tested: 
+![Temperature measurement points](/assets/images/thermo_points.JPG)
+
+Operating Conditions Tested:
 
 Parallel Flow (Control Group): Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes.
 2/4 hot side of the pump becomes warmer compared to the 1/3 side with cold flow.
