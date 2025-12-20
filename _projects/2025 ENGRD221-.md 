@@ -123,6 +123,12 @@ There was significantly less hot liquid in the hot-side tubing compared to the c
        alt="Temperature measurement points"
        style="max-width: 400px; width: 100%; border-radius: 8px;">
 </p>
+<p style="font-size: 0.85rem; color: #555; text-align: center; margin-top: 0.75rem;">
+  The analysis assumes steady-state operation, incompressible fluid behavior,
+  negligible changes in kinetic and potential energy, no work done within the system,
+  a specific heat capacity of water of 4.184&nbsp;kJ/kg·K, and an ambient reference
+  temperature of 25&nbsp;°C.
+</p>
 
 <h2 style="margin-top: 2rem;">Thermodynamics Analysis</h2>
 
