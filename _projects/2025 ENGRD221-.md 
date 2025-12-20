@@ -23,7 +23,7 @@ image: /fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg
        style="max-width: 400px; width: 100%; border-radius: 8px;">
 </p>
 
-<h1> Operating Conditions Tested:</h1><br>
+<h1> Operating Conditions Tested:</h1>
 <h2 style="margin-top: 3rem;">Parallel Flow (Control Group):</h2>
 Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes. In the parallel-flow configuration, both the hot and cold fluids entered the heat exchanger at the same end and flowed in the same direction.<br>
 
