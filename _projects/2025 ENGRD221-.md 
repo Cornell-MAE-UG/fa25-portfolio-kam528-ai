@@ -131,6 +131,16 @@ There was significantly less hot liquid in the hot-side tubing compared to the c
        alt="Temperature measurement points"
        style="max-width: 400px; width: 100%; border-radius: 8px;">
 </p>
+<p style="font-size: 0.85rem; color: #555;">
+  The mass flow rate of 0.125kg/s was estimated using a similar pump to the one used in our experiment.
+  See the
+  <a href="https://www.amazon.com.be/-/en/Air-Pump-Up-Lift-Dehumidifiers/dp/B07D8DQMYT/ref=asc_df_B07D8DQMYT?mcid=8ea932042a543d118359cca2029b55b1&tag=begogshpadde-21&linkCode=df0&hvadid=712581418278&hvpos=&hvnetw=g&hvrand=10419331664042526324&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9219354&hvtargid=pla-519965981437&psc=1&language=en_GB&gad_source=1"
+     target="_blank"
+     rel="noopener noreferrer">
+    Amazon reference pump
+  </a>
+  for the manufacturer specifications.
+</p>
 
 The energy balance calculations show that the total heat transfer for each operating condition is not zero, indicating measurable heat loss to the surroundings rather than an ideal, perfectly insulated system. In the parallel-flow case, the imbalance between the heat lost by the hot stream and the heat gained by the cold stream resulted in a negative total heat transfer rate, confirming environmental heat loss. The counterflow configuration exhibited a larger magnitude of heat transfer, consistent with its higher thermal effectiveness, but still showed nonzero net heat transfer, further supporting the presence of external heat losses. Entropy generation calculations for all configurations were positive, satisfying the second law of thermodynamics and confirming the irreversibility of the heat exchange process. Variations in entropy generation between cases reflected changes in temperature gradients and mass flow rates, with larger temperature differences and reduced hot-side flow leading to increased irreversibility. Overall, the calculations quantitatively demonstrate how real heat exchangers deviate from ideal behavior due to heat losses and entropy generation.<br>
 
