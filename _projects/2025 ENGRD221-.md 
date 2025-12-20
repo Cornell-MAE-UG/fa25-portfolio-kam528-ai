@@ -25,44 +25,40 @@ image: /fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg
 
 <h1> Operating Conditions Tested:</h1><br>
 
-<h2>Parallel Flow (Control Group):</h2><br>
+<h2 style="margin-top: 3rem;">Parallel Flow (Control Group):</h2><br>
 Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes. In the parallel-flow configuration, both the hot and cold fluids entered the heat exchanger at the same end and flowed in the same direction.<br>
 
 Hot reservoir: 43.1 °C → 27.3 °C<br>
 
 Cold reservoir: 4.0 °C → 23.6 °C<br>
-
-<h3>Observations:</h3>
+<h4 style="margin-top: 2rem;">Observations:</h4>
 During parallel flow, the metal pump block showed uneven heating. The 2/4 side of the pump consistently became hotter than the 1/3 side associated with the cold flow. This suggests nonuniform heat distribution and possible heat loss to the surroundings. This indicates that the exchanger is not perfectly insulated and that some heat is either lost to the surroundings or not evenly conducted through the metal block.<br>
 
-<h2>Counter Flow:</h2><br> 
+<h2 style="margin-top: 3rem;">Counter Flow:</h2><br> 
 In the counterflow configuration, the hot and cold fluids flowed in opposite directions through the heat exchanger, keeping a large temperature difference across the entire heat exchanger. This configuration is much more effective, allowing greater heat transfer and enabling the cold outlet to approach the hot inlet temperature more closely.<br>
 
 Hot reservoir: 43.1 °C → 23.0 °C<br>
 
 Cold reservoir: 6.3 °C → 28.1 °C<br>
-
-<h3>Observations:</h3>
+<h4 style="margin-top: 2rem;">Observations:</h4>
 The hot reservoir temperature increased rapidly to approximately 44.5 °C shortly after flow initiation before cooling. Notably, the cold reservoir became hotter than the hot reservoir outlet, while the hot stream exited colder than the cold stream. This temperature crossover is only possible in a counterflow heat exchanger and demonstrates its higher thermal effectiveness compared to parallel flow.<br>
 
-<h2>Parallel Flow with Higher Hot Inlet Temperature:</h2><br>
+<h2 style="margin-top: 3rem;">Parallel Flow with Higher Hot Inlet Temperature:</h2><br>
 This trial repeated the parallel-flow configuration with a higher initial temperature in the hot reservoir. A higher hot inlet temperature is supposed to increase the driving temperature difference and raises the heat-transfer rate. Lowering it weakens heat transfer and reduces cold-side heating.<br>
 
 Hot reservoir: 50.0 °C → 30.0 °C<br>
 
 Cold reservoir: 4.0 °C → 23.0 °C<br>
-
-<h3>Observations:</h3><br>
+<h4 style="margin-top: 2rem;">Observations:</h4><br>
 Increasing the initial hot reservoir temperature increased the overall temperature driving force but did not produce dramatic changes in exchanger behavior compared to the baseline parallel-flow case.<br>
 
-<h2>Change of Relative Flow Rate (Reduced Hot-Side Flow Rate):<h2><br>
+<h2 style="margin-top: 3rem;">Change of Relative Flow Rate (Reduced Hot-Side Flow Rate):</h2><br>
 In this experiment, the hot-side tubing was pinched to reduce the hot-side mass flow rate while maintaining approximately the same cold-side flow. The side with the lower flow rate experiences a larger temperature change and becomes the limiting stream. The higher-flow stream changes temperature less because it carries more thermal mass.<br>
 
 Hot reservoir: 42.4 °C → 26.5 °C<br>
 
 Cold reservoir: 9.6 °C → 24.9 °C<br>
-
-<h3>Observations:</h3><br>
+<h4 style="margin-top: 2rem;">Observations:</h4><br>
 There was significantly less hot liquid in the hot-side tubing compared to the cold-side tubing. The reduced hot mass flow resulted in a larger temperature drop on the hot side in order to transfer sufficient heat to the cold stream.<br>
 
 <table style="width:100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem;">
@@ -121,16 +117,28 @@ There was significantly less hot liquid in the hot-side tubing compared to the c
   operating condition tested.
 </p>
 
+<h1 style="margin-top: 3rem;">Derivation of Mass, Enthalpy, and Energy Balance of Heat Exchanger System</h1><br>
 
-Heat exchangers appear anywhere heat needs to transfer between fluids without mixing. Examples include car radiators, home HVAC systems, power-plant condensers, industrial process coolers and heaters, refrigeration systems, and renewable-energy systems like geothermal heat pumps.
+<p style="text-align:center;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/heat_port_Equations.png"
+       alt="Temperature measurement points"
+       style="max-width: 400px; width: 100%; border-radius: 8px;">
+</p>
 
-Even with temperature-controlled reservoirs, the heat exchanger is not perfectly adiabatic. Heat is still lost or gained through:
-    the exposed metal body of the exchanger
-    uninsulated tubing
-    ambient air interacting with the system
-These external losses mean the heat gained by the cold stream will be slightly less than the heat lost by the hot stream.
+<h2 style="margin-top: 2rem;">Thermodynamics Analysis</h2><br>
 
-In our setup, the kinetic energy changes are not negligible, because we can physically feel the outside of the heat exchanger becoming warmer during operation. This indicates that pump-driven flow creates noticeable frictional losses and turbulence inside the channels, converting kinetic energy into thermal energy. As a result, some heating occurs due to flow resistance, meaning KE effects contribute to the overall temperature changes.
+<p style="text-align:center;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/thermo_analysis.png"
+       alt="Temperature measurement points"
+       style="max-width: 400px; width: 100%; border-radius: 8px;">
+</p>
+
+The energy balance calculations show that the total heat transfer for each operating condition is not zero, indicating measurable heat loss to the surroundings rather than an ideal, perfectly insulated system. In the parallel-flow case, the imbalance between the heat lost by the hot stream and the heat gained by the cold stream resulted in a negative total heat transfer rate, confirming environmental heat loss. The counterflow configuration exhibited a larger magnitude of heat transfer, consistent with its higher thermal effectiveness, but still showed nonzero net heat transfer, further supporting the presence of external heat losses. Entropy generation calculations for all configurations were positive, satisfying the second law of thermodynamics and confirming the irreversibility of the heat exchange process. Variations in entropy generation between cases reflected changes in temperature gradients and mass flow rates, with larger temperature differences and reduced hot-side flow leading to increased irreversibility. Overall, the calculations quantitatively demonstrate how real heat exchangers deviate from ideal behavior due to heat losses and entropy generation.<br>
+
+<h1 style="margin-top: 3rem;">Conclusion</h1><br>
+This report analyzed a small water heat exchanger using experimental measurements and supporting energy and entropy balance calculations under multiple operating conditions. The results showed effective heat transfer from the hot reservoir to the cold reservoir, with differences in performance depending on flow configuration and operating parameters. Real world heat exchangers similar to this system are widely used in HVAC systems, refrigeration units, automotive radiators, power plants, and industrial processing equipment, where controlled heat transfer is essential for efficient operation.<br>
+
+The analysis also demonstrated that the heat exchanger did not operate in a perfectly adiabatic manner, as measurable heat loss to the surroundings was observed, influencing overall performance and efficiency in practical applications. While the system approached steady-state operation during testing, temperature drift in the reservoirs indicated that true steady state was not fully achieved; improved insulation, longer run times, or larger reservoirs could help reach steady state. Additionally, kinetic energy changes between inlet and outlet flows were assumed negligible due to low flow velocities and minimal changes in flow area, making this assumption reasonable for the system studied.<br>
 
 
 
