@@ -5,7 +5,7 @@ description: Hands-on thermodynamics project analyzing the performance of a coun
 technologies: [Thermodynamics, Heat Exchangers, Energy Balance, Entropy Analysis, Experimental Methods]
 image: /fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg
 ---
-Heat Exchanger Setup:
+<h1>Heat Exchanger Setup:</h1>
 
 <p style="text-align:center;">
   <img src="/fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg"
@@ -14,13 +14,8 @@ Heat Exchanger Setup:
 </p>
 
 
-<p style="text-align:center;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/thermo_points.JPG"
-       alt="Temperature measurement points"
-       style="max-width: 400px; width: 100%; border-radius: 8px;">
-</p>
-
-Heat Exchanger Details: A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. The apparatus used in this experiment is a small water-to-water heat exchanger. One closed loop circulates hot water from a heated reservoir, while a second loop carries cold water from a chilled reservoir. The two fluids remain completely separated and do not mix; instead, heat is transferred from the hot stream to the cold stream through the metal wall between the channels. This heat transfer occurs through conduction within the metal and convection between the fluid and the metal surface. <br>
+<h1>Heat Exchanger Details:</h1><br>
+ A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. The apparatus used in this experiment is a small water-to-water heat exchanger. One closed loop circulates hot water from a heated reservoir, while a second loop carries cold water from a chilled reservoir. The two fluids remain completely separated and do not mix; instead, heat is transferred from the hot stream to the cold stream through the metal wall between the channels. This heat transfer occurs through conduction within the metal and convection between the fluid and the metal surface. <br>
 
 <p style="text-align:center;">
   <img src="/fa25-portfolio-kam528-ai/assets/images/thermo_points.JPG"
@@ -28,13 +23,17 @@ Heat Exchanger Details: A heat exchanger transfers thermal energy between two fl
        style="max-width: 400px; width: 100%; border-radius: 8px;">
 </p>
 
-We tested several operating conditions, including parallel flow, counterflow, parallel flow with a higher hot inlet temperature, and a case where the hot tube was pinched to reduce the hot-side flow rate. During the parallel-flow trials, we observed that one side of the metal block became noticeably hotter than the other. This indicates that the exchanger is not perfectly insulated and that some heat is either lost to the surroundings or not evenly conducted through the metal block.
+<h1> Operating Conditions Tested:</h1><br>
 
+<h2>Parallel Flow (Control Group):</h2><br>
+Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes. In the parallel-flow configuration, both the hot and cold fluids entered the heat exchanger at the same end and flowed in the same direction.<br>
 
-Operating Conditions Tested:
+Hot reservoir: 43.1 °C → 27.3 °C<br>
 
-Parallel Flow (Control Group): Both fluids enter and travel in the same direction, so the temperature difference quickly decreases as they move together. This makes the exchanger less effective, limiting the amount of heat transferred and resulting in smaller temperature changes.
-2/4 hot side of the pump becomes warmer compared to the 1/3 side with cold flow.
+Cold reservoir: 4.0 °C → 23.6 °C<br>
+
+<h3>Observations:</h3>
+During parallel flow, the metal pump block showed uneven heating. The 2/4 side of the pump consistently became hotter than the 1/3 side associated with the cold flow. This suggests nonuniform heat distribution and possible heat loss to the surroundings. This indicates that the exchanger is not perfectly insulated and that some heat is either lost to the surroundings or not evenly conducted through the metal block.<br>
 
 Counter Flow: The hot and cold streams move in opposite directions, keeping a large temperature difference across the entire heat exchanger. This configuration is much more effective, allowing greater heat transfer and enabling the cold outlet to approach the hot inlet temperature more closely.
 Teperature hot the hot increased much more rapidly than the parallel flow.
