@@ -18,7 +18,7 @@ image: /fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg
  A heat exchanger transfers thermal energy between two fluid streams without allowing them to mix. The apparatus used in this experiment is a small water-to-water heat exchanger. One closed loop circulates hot water from a heated reservoir, while a second loop carries cold water from a chilled reservoir. The two fluids remain completely separated and do not mix; instead, heat is transferred from the hot stream to the cold stream through the metal wall between the channels. This heat transfer occurs through conduction within the metal and convection between the fluid and the metal surface. <br>
 
 <p style="text-align:center;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/thermo_points.JPG"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/control_vol_diagram.png"
        alt="Temperature measurement points"
        style="max-width: 400px; width: 100%; border-radius: 8px;">
 </p>
