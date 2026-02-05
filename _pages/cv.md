@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/Kathryn_Moskal_CV (2025).pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/css/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [kam528@cornell.edu](kam528@cornell.edu) | | | **Phone:** +8605434348
