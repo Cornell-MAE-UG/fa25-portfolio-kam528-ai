@@ -345,17 +345,16 @@ shrinkage and ensure clear flow through pathways.
       <strong>Image 17.</strong> Single TPMS core emitter
     </figcaption>
   </figure>
-</div>
 
-<p style="text-align:center;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterTesting.png"
-       alt="Heat exchanger setup"
-       style="max-width: 400px; width: 100%; border-radius: 8px;">
-  <figcaption style="font-size:0.95rem; margin-top:8px;">
+   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterTesting.png"
+         alt="Heat exchanger setup"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
       <strong>Image 18.</strong> Emitter testing setup
     </figcaption>
   </figure>
-</p>
+</div>
 
 <h1 style="margin-top: 3rem;">Conclusion</h1>
 <p>
