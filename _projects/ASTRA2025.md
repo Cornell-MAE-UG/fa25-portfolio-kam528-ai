@@ -2,17 +2,9 @@
 layout: project
 title: Design of the Electrospray Emitter Geometries
 description: Fall 2025 Research Report
-technologies: [Microfabrication, TPMS Python, CAD (Belender, Fusion360,)]
+technologies: [Microfabrication, TPMS Python, CAD (Blender, Fusion360,)]
 image: /assets/images/Part2.png
 ---
----
-layout: project
-title: Design of the Electrospray Emitter Geometries
-description: Fall 2025 Research Report
-technologies: [Electrospray, Microfabrication, TPMS, CAD]
-image: /fa25-portfolio-kam528-ai/assets/images/research_report/cover.png
----
-
 <h1>Design of the Electrospray Emitter Geometries</h1>
 
 <h1>Abstract</h1>
@@ -93,7 +85,7 @@ influence flow behavior were observed <strong>(Image 1)</strong>.
 <!-- Images 1 & 2 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_01.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterImages/Image1"
          alt="Whole single capillary wave structure"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -324,7 +316,7 @@ To conclude physical testing, only emitters with the most promising predicted pe
 manually tested, specifically the TPMS gradient (0.5, 2) emitter and the single TPMS core
 emitter. This testing involved placing the emitters under a microscope and using a micropipette
 to inject food coloring at the base of the emitter in order to observe whether the fluid could reach
-the emitter tip autonomously. Images 16 and 17 show the emitters under the microscope during
+the emitter tip autonomously. <strong>Images 16 and 17</strong> show the emitters under the microscope during
 testing. However, no liquid was observed to reach the top of the emitters. It was hypothesized
 that residual resin remained within the TPMS nodes, blocking the flow pathway to the tip.
 Additionally, for the gradient emitter, because fluid traveled only halfway through the structure, it
