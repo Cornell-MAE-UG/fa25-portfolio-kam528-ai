@@ -3,7 +3,8 @@ layout: project
 title: Heat Exchanger Analysis
 description: Hands-on thermodynamics project analyzing the performance of a counter-flow heat exchanger under varying operating conditions
 technologies: [Thermodynamics, Heat Exchangers, Energy Balance, Entropy Analysis, Experimental Methods]
-image: /assets/images/heat_exchnager_setup.jpg
+image:
+thumbnail: /assets/images/heat_exchnager_setup.jpg
 ---
 <h1>Heat Exchanger Setup:</h1>
 
