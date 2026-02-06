@@ -89,7 +89,7 @@ influence flow behavior were observed <strong>(Image 1)</strong>.
        alt="Whole single capillary wave structure"
        style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="font-size:0.95rem; margin-top:8px;">
-    Image 1. Whole single capillary wave structure
+    <strong>Image 1.</strong> Whole single capillary wave structure
   </figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ influence flow behavior were observed <strong>(Image 1)</strong>.
          alt="Simplified testing box model for microscope testing"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 2. Simplified testing box model for microscope testing
+      <strong>Image 2.</strong> Simplified testing box model for microscope testing
     </figcaption>
   </figure>
 </div>
@@ -131,7 +131,7 @@ increased breakage at their ends <strong>(Image 3)</strong>.
          alt="Structure showing less stability on thin ends"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 3. Structure showing less stability on thin ends
+      <strong>Image 3.</strong> Structure showing less stability on thin ends
     </figcaption>
   </figure>
 
@@ -140,7 +140,7 @@ increased breakage at their ends <strong>(Image 3)</strong>.
          alt="Close up of thick TPMS emitter tip"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 4. Close up of thick TPMS emitter tip
+      <strong>Image 4.</strong> Close up of thick TPMS emitter tip
     </figcaption>
   </figure>
 </div>
@@ -162,7 +162,7 @@ final printed structures <strong>(Images 5 and 6)</strong>.
          alt="Close up stable of emitter tip"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 5. Close up stable of emitter tip
+      <strong>Image 5.</strong> Close up stable of emitter tip
     </figcaption>
   </figure>
 
@@ -171,7 +171,7 @@ final printed structures <strong>(Images 5 and 6)</strong>.
          alt="Full hybrid cone emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 6. Full hybrid cone emitter
+      <strong>Image 6.</strong> Full hybrid cone emitter
     </figcaption>
   </figure>
 </div>
@@ -192,7 +192,7 @@ the final product.
          alt="Close up of 10μm exit capillaries"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 7. Close up of 10μm exit capillaries
+      <strong>Image 7.</strong> Close up of 10μm exit capillaries
     </figcaption>
   </figure>
 
@@ -201,7 +201,7 @@ the final product.
          alt="Cracks around the solid emitter shell"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 8. Cracks around the solid emitter shell
+      <strong>Image 8.</strong> Cracks around the solid emitter shell
     </figcaption>
   </figure>
 </div>
@@ -225,7 +225,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
          alt="Full TPMS core Emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 9. Full TPMS core Emitter
+      <strong>Image 9.</strong> Full TPMS core Emitter
     </figcaption>
   </figure>
 
@@ -234,7 +234,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
          alt="New column base structure designed by Bryce Kingsley"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 10. New column base structure designed by Bryce Kingsley
+      <strong>Image 10.</strong> New column base structure designed by Bryce Kingsley
     </figcaption>
   </figure>
 </div>
@@ -246,7 +246,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
        style="max-width: 560px; width: 100%; border-radius: 8px;">
 </p>
 <p style="text-align:center; font-size:0.95rem; margin-top:-8px;">
-  Image 11. Close up of rounded TPMS core tip
+  <strong>Image 11.</strong> Close up of rounded TPMS core tip
 </p>
 
 <h2 style="margin-top: 2.5rem;">3.4 TPMS Gradient Designs</h2>
@@ -267,7 +267,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
          alt="Full TPMS (.5,2) Gradient Design"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 12. Full TPMS (.5,2) Gradient Design
+      <strong>Image 12.</strong> Full TPMS (.5,2) Gradient Design
     </figcaption>
   </figure>
 
@@ -276,7 +276,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
          alt="Close-up of emitter tip with 6μm nodes (.5,2)"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 13. Close-up of emitter tip with 6μm nodes (.5,2)
+      <strong>Image 13.</strong> Close-up of emitter tip with 6μm nodes (.5,2)
     </figcaption>
   </figure>
 </div>
@@ -288,7 +288,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
          alt="Close- up of emitter base with 10μm nodes (.5,2)"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 14. Close- up of emitter base with 10μm nodes (.5,2)
+      <strong>Image 14.</strong> Close- up of emitter base with 10μm nodes (.5,2)
     </figcaption>
   </figure>
 
@@ -297,7 +297,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
          alt="Close-up of column base designed by Bryce Kingsley"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 15. Close-up of column base designed by Bryce Kingsley
+      <strong>Image 15.</strong> Close-up of column base designed by Bryce Kingsley
     </figcaption>
   </figure>
 </div>
@@ -333,7 +333,7 @@ shrinkage and ensure clear flow through pathways.
          alt="Gradient (.5,2) TPMS emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 16. Gradient (.5,2) TPMS emitter
+      <strong>Image 16.</strong> Gradient (.5,2) TPMS emitter
     </figcaption>
   </figure>
 
@@ -342,7 +342,7 @@ shrinkage and ensure clear flow through pathways.
          alt="Single TPMS core emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
-      Image 17. Single TPMS core emitter
+      <strong>Image 17.</strong> Single TPMS core emitter
     </figcaption>
   </figure>
 </div>
