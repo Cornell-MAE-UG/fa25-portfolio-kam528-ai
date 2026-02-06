@@ -82,16 +82,10 @@ predictable flow rate. In the online 3D model, changes in diameter that were exp
 influence flow behavior were observed <strong>(Image 1)</strong>.
 </p>
 
-<p style="text-align:center;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg"
-       alt="Heat exchanger setup"
-       style="max-width: 400px; width: 100%; border-radius: 8px;">
-</p>
-
 <!-- Images 1 & 2 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterImages/Image1.png"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/Image1.png"
        alt="Whole single capillary wave structure"
        style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -101,7 +95,7 @@ influence flow behavior were observed <strong>(Image 1)</strong>.
 
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterImages/Image2"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image2.png"
          alt="Simplified testing box model for microscope testing"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -142,7 +136,7 @@ increased breakage at their ends <strong>(Image 3)</strong>.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_04.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image4.png"
          alt="Close up of thick TPMS emitter tip"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -164,7 +158,7 @@ final printed structures <strong>(Images 5 and 6)</strong>.
 <!-- Images 5 & 6 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_05.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image5.png"
          alt="Close up stable of emitter tip"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -173,7 +167,7 @@ final printed structures <strong>(Images 5 and 6)</strong>.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_06.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image6.png"
          alt="Full hybrid cone emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -194,7 +188,7 @@ the final product.
 <!-- Images 7 & 8 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_07.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image7.png"
          alt="Close up of 10μm exit capillaries"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -203,7 +197,7 @@ the final product.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_08.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image8.png"
          alt="Cracks around the solid emitter shell"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -227,7 +221,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
 <!-- Images 9 & 10 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_09.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image9.png"
          alt="Full TPMS core Emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -236,7 +230,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_10.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image10.png"
          alt="New column base structure designed by Bryce Kingsley"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -247,7 +241,7 @@ hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
 
 <!-- Image 11 -->
 <p style="text-align:center; margin: 16px 0;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_11.png"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/Image11.png"
        alt="Close up of rounded TPMS core tip"
        style="max-width: 560px; width: 100%; border-radius: 8px;">
 </p>
@@ -269,7 +263,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
 <!-- Images 12 & 13 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_12.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image12.png"
          alt="Full TPMS (.5,2) Gradient Design"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -278,7 +272,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_13.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image13.png"
          alt="Close-up of emitter tip with 6μm nodes (.5,2)"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -290,7 +284,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
 <!-- Images 14 & 15 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_14.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image14.png"
          alt="Close- up of emitter base with 10μm nodes (.5,2)"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -299,7 +293,7 @@ flow as the fluid moved upward through progressively smaller TPMS nodes.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_15.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image15.png"
          alt="Close-up of column base designed by Bryce Kingsley"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -335,7 +329,7 @@ shrinkage and ensure clear flow through pathways.
 <!-- Images 16 & 17 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_16.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image16.png"
          alt="Gradient (.5,2) TPMS emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -344,7 +338,7 @@ shrinkage and ensure clear flow through pathways.
   </figure>
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_17.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image17.png"
          alt="Single TPMS core emitter"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
