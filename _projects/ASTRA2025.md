@@ -68,7 +68,7 @@ Blender and Onshape, two 3D creation software programs to finalize each emitter 
 the process.
 </p>
 
-<h2>3.1 Capillary Designs</h2>
+<h2 style="margin-top: 2.5rem;">3.1 Capillary Designs</h2>
 
 <h3>3.1.1 Multiple Vertical Angled Capillaries</h3>
 <p>
@@ -90,7 +90,28 @@ predictable flow rate. In the online 3D model, changes in diameter that were exp
 influence flow behavior were observed <strong>(Image 1)</strong>.
 </p>
 
-<h2>3.2 TPMS Design</h2>
+<!-- Images 1 & 2 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_01.png"
+         alt="Whole single capillary wave structure"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 1. Whole single capillary wave structure
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_02.png"
+         alt="Simplified testing box model for microscope testing"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 2. Simplified testing box model for microscope testing
+    </figcaption>
+  </figure>
+</div>
+
+<h2 style="margin-top: 2.5rem;">3.2 TPMS Design</h2>
 <p>
 Triply Periodic Minimal Surfaces (TPMS) are smooth, continuous three dimensional structures
 that repeat in all directions and contain no sharp corners or edges. Their geometry spreads
@@ -110,7 +131,28 @@ significantly better results and were able to maintain their structural integrit
 increased breakage at their ends <strong>(Image 3)</strong>.
 </p>
 
-<h2>3.3 TPMS Hybrid Designs</h2>
+<!-- Images 3 & 4 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_03.png"
+         alt="Structure showing less stability on thin ends"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 3. Structure showing less stability on thin ends
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_04.png"
+         alt="Close up of thick TPMS emitter tip"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 4. Close up of thick TPMS emitter tip
+    </figcaption>
+  </figure>
+</div>
+
+<h2 style="margin-top: 2.5rem;">3.3 TPMS Hybrid Designs</h2>
 
 <h3>3.3.1 Cutout Inner Cone</h3>
 <p>
@@ -118,16 +160,59 @@ This design expanded on the previous hollow TPMS design by adding a solid cone i
 create a thickened internal structure. During the printing of this design, it was hypothesized that
 there was less strain on the emitter during manufacturing, resulting in reduced breakage in the
 final printed structures <strong>(Images 5 and 6)</strong>.
-</p>
+</p
+
+<!-- Images 5 & 6 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_05.png"
+         alt="Close up stable of emitter tip"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 5. Close up stable of emitter tip
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_06.png"
+         alt="Full hybrid cone emitter"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 6. Full hybrid cone emitter
+    </figcaption>
+  </figure>
+</div>
 
 <h3>3.3.2 Solid Shell with TPMS Cone Fill In</h3>
 <p>
 This design depicts a solid cone emitter with 10μm exit capillaries, filled with a cone of TPMS
 featuring a 10μm nodal size. This design exhibited multiple cracks around the solid shell of the
-emitter <strong>(Image 8)</strong>. It was hypothesized that these defects were due to a change in resin used
-for this batch of emitters, as thermal heating induced strain in this material leading to cracking in
+emitter <strong>(Image 8)</strong>. It was hypothesized that these defects were due to a change in resin used for
+this batch of emitters, as thermal heating induced strain in this material leading to cracking in
 the final product.
 </p>
+
+<!-- Images 7 & 8 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_07.png"
+         alt="Close up of 10μm exit capillaries"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 7. Close up of 10μm exit capillaries
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_08.png"
+         alt="Cracks around the solid emitter shell"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 8. Cracks around the solid emitter shell
+    </figcaption>
+  </figure>
+</div>
+##### START HERE
 
 <h3>3.3.3 Single TPMS Core</h3>
 <p>
@@ -141,7 +226,38 @@ structure of the solid emitters was modified to a column structure designed by B
 hopes to maximize flow up the capillaries <strong>(Image 10)</strong>.
 </p>
 
-<h2>3.4 TPMS Gradient Designs</h2>
+<!-- Images 9 & 10 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_09.png"
+         alt="Full TPMS core Emitter"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 9. Full TPMS core Emitter
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_10.png"
+         alt="New column base structure designed by Bryce Kingsley"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 10. New column base structure designed by Bryce Kingsley
+    </figcaption>
+  </figure>
+</div>
+
+<!-- Image 11 -->
+<p style="text-align:center; margin: 16px 0;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_11.png"
+       alt="Close up of rounded TPMS core tip"
+       style="max-width: 560px; width: 100%; border-radius: 8px;">
+</p>
+<p style="text-align:center; font-size:0.95rem; margin-top:-8px;">
+  Image 11. Close up of rounded TPMS core tip
+</p>
+
+<h2 style="margin-top: 2.5rem;">3.4 TPMS Gradient Designs</h2>
 <p>
 This design focused on changing the gradient of the TPMS nodal sizing from the top to the
 bottom of the emitter. Two different iterations were created. One used a TPMS gradient of (2,
@@ -152,7 +268,49 @@ small to large gradient was selected for printing, as it was expected to produce
 flow as the fluid moved upward through progressively smaller TPMS nodes.
 </p>
 
-<h1>4.0 Testing Results</h1>
+<!-- Images 12 & 13 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_12.png"
+         alt="Full TPMS (.5,2) Gradient Design"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 12. Full TPMS (.5,2) Gradient Design
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_13.png"
+         alt="Close-up of emitter tip with 6μm nodes (.5,2)"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 13. Close-up of emitter tip with 6μm nodes (.5,2)
+    </figcaption>
+  </figure>
+</div>
+
+<!-- Images 14 & 15 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_14.png"
+         alt="Close- up of emitter base with 10μm nodes (.5,2)"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 14. Close- up of emitter base with 10μm nodes (.5,2)
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_15.png"
+         alt="Close-up of column base designed by Bryce Kingsley"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 15. Close-up of column base designed by Bryce Kingsley
+    </figcaption>
+  </figure>
+</div>
+
+<h1 style="margin-top: 3rem;">4.0 Testing Results</h1>
 <p>
 While completing SEM imaging for each of the printed emitters, image analysis was performed
 using ImageJ/FIJI to determine the actual capillary size after 3D printing. As a result, it was
@@ -176,7 +334,28 @@ the TPMS nodal size must be significantly larger than initially anticipated to a
 shrinkage and ensure clear flow through pathways.
 </p>
 
-<h1>Conclusion</h1>
+<!-- Images 16 & 17 -->
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_16.png"
+         alt="Gradient (.5,2) TPMS emitter"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 16. Gradient (.5,2) TPMS emitter
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_17.png"
+         alt="Single TPMS core emitter"
+         style="width:100%; max-width:420px; border-radius:8px;">
+    <figcaption style="font-size:0.95rem; margin-top:8px;">
+      Image 17. Single TPMS core emitter
+    </figcaption>
+  </figure>
+</div>
+
+<h1 style="margin-top: 3rem;">Conclusion</h1>
 <p>
 This research examined the process behind manufacturing electrospray emitters and the design
 considerations involved in their development. Many emitter geometries were designed, and the
