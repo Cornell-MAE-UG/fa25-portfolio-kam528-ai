@@ -133,7 +133,7 @@ increased breakage at their ends <strong>(Image 3)</strong>.
 <!-- Images 3 & 4 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_03.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/Image1.png"
          alt="Structure showing less stability on thin ends"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
