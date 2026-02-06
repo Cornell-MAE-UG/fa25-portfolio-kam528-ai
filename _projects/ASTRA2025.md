@@ -101,7 +101,7 @@ influence flow behavior were observed <strong>(Image 1)</strong>.
 
 
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-    <img src="/fa25-portfolio-kam528-ai/assets/images/research_report/image_02.png"
+    <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterImages/Image2"
          alt="Simplified testing box model for microscope testing"
          style="width:100%; max-width:420px; border-radius:8px;">
     <figcaption style="font-size:0.95rem; margin-top:8px;">
