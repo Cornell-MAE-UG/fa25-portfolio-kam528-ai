@@ -348,11 +348,11 @@ shrinkage and ensure clear flow through pathways.
 </div>
 
 <p style="text-align:center;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterTesting"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterTesting.png"
        alt="Heat exchanger setup"
        style="max-width: 400px; width: 100%; border-radius: 8px;">
   <figcaption style="font-size:0.95rem; margin-top:8px;">
-      <strong>Image 18.</strong> Testing Setup
+      <strong>Image 18.</strong> Emitter testing setup
     </figcaption>
   </figure>
 </p>
