@@ -82,10 +82,16 @@ predictable flow rate. In the online 3D model, changes in diameter that were exp
 influence flow behavior were observed <strong>(Image 1)</strong>.
 </p>
 
+<p style="text-align:center;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/heat_exchnager_setup.jpg"
+       alt="Heat exchanger setup"
+       style="max-width: 400px; width: 100%; border-radius: 8px;">
+</p>
+
 <!-- Images 1 & 2 -->
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/assets/images/EmitterImages/Image1.png"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterImages/Image1.png"
        alt="Whole single capillary wave structure"
        style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="font-size:0.95rem; margin-top:8px;">
@@ -205,7 +211,6 @@ the final product.
     </figcaption>
   </figure>
 </div>
-##### START HERE
 
 <h3>3.3.3 Single TPMS Core</h3>
 <p>
