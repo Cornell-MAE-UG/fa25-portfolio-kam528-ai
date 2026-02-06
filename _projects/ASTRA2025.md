@@ -3,7 +3,7 @@ layout: project
 title: Design of the Electrospray Emitter Geometries
 description: Fall 2025 Research Report
 technologies: [Microfabrication, TPMS Python, CAD (Blender, Fusion360)]
-image: /assets/images/Part2.png
+image: /assets/images/Image3.png
 ---
 <h1>Design of the Electrospray Emitter Geometries</h1>
 
@@ -346,6 +346,16 @@ shrinkage and ensure clear flow through pathways.
     </figcaption>
   </figure>
 </div>
+
+<p style="text-align:center;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/EmitterTesting"
+       alt="Heat exchanger setup"
+       style="max-width: 400px; width: 100%; border-radius: 8px;">
+  <figcaption style="font-size:0.95rem; margin-top:8px;">
+      <strong>Image 18.</strong> Testing Setup
+    </figcaption>
+  </figure>
+</p>
 
 <h1 style="margin-top: 3rem;">Conclusion</h1>
 <p>
