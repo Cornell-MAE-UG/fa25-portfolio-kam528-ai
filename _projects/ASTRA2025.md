@@ -2,7 +2,7 @@
 layout: project
 title: Design of the Electrospray Emitter Geometries
 description: Fall 2025 Research Report
-technologies: [Microfabrication, TPMS Python, CAD (Blender, Fusion360,)]
+technologies: [Microfabrication, TPMS Python, CAD (Blender, Fusion360)]
 image: /assets/images/Part2.png
 ---
 <h1>Design of the Electrospray Emitter Geometries</h1>
