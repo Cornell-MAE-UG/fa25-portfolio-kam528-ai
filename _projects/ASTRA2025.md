@@ -5,8 +5,6 @@ description: Fall 2025 Research Report
 technologies: [Microfabrication, TPMS Python, CAD (Blender, Fusion360)]
 image: /assets/images/Image3.png
 ---
-<h1>Design of the Electrospray Emitter Geometries</h1>
-
 <h1>Abstract</h1>
 <p>
 This paper discusses the results of a study on the design and manufacture of electrospray
