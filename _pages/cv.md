@@ -5,17 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/css/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/css/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [kam528@cornell.edu](kam528@cornell.edu) | | | **Phone:** +8605434348
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in mechanical engineering and eager to apply my knowledge in real-world applications.
-
----
 
 #### Education
 - **Cornell University**  

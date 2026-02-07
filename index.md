@@ -7,7 +7,6 @@ title: Kathryn Moskal
 
 
 ![Profile Picture]({{ "assets/images/Myself.png" | relative_url }}){: class="profile-image"}
-
  
 My name is {{ site.name }}, and I am a mechanical engineering student at Cornell University. I am very eager to develop my technical problem solving skills and deepen my understanding of all mechanical systems.
 
