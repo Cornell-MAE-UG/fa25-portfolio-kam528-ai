@@ -9,7 +9,7 @@ permalink: /cv/
 [Download my Resume]({{ "/assets/css/Kathryn_Moskal_Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [kam528@cornell.edu](kam528@cornell.edu) | | | **Phone:** +8605434348
+**Email:** [kam528@cornell.edu](kam528@cornell.edu) | | | **Phone:** +(860)543-4348
 
 #### Education
 - **Cornell University**  
