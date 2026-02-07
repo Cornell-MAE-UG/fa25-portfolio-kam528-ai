@@ -16,7 +16,7 @@ permalink: /cv/
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
    Graduation: June, 2028
 
-- **[Hall High School]**  
+- **Hall High School**  
   *High School Diploma*  
   Graduation: June, 2024
 
@@ -30,21 +30,21 @@ permalink: /cv/
 ---
 
 #### Projects
-- **[Electrospray Propulsion Emitters]**:
+- **ASTRA Lab: Electrospray Propulsion Emitters**:
   *Design, fabrication, and analysis of microfabricated emitter geometries for electrospray propulsion systems*
   - Designed and evaluated multiple emitter geometries, including angled vertical capillaries, curved capillaries, and TPMS-based structures
   - Used high-resolution 3D microfabrication techniques to manufacture emitters with controlled nanoscale features
   - Analyzed the influence of geometry on propellant distribution, emission stability, and flow behavior
   - Supported experimental testing and characterization to inform future emitter design iterations
 
-- **[DBF Project Team Aircraft]**:
+- **DBF Project Team Aircraft**:
   *Design–Build–Fly (DBF) competition aircraft developed as part of a multidisciplinary project team*
   - Contributed to the structural and aerodynamic design of the aircraft, including wing design and integration
   - Performed analysis to evaluate aircraft performance and structural behavior prior to flight testing
   - Supported fabrication, assembly, and iterative testing of the aircraft
   - Participated in flight testing, including a successful first flight demonstrating stable takeoff, flight, and landing
 
-  - **[Heat Exchanger Analysis]**:
+  - **Heat Exchanger Analysis**:
   *Experimental analysis of a water-to-water heat exchanger under multiple flow configurations*
   - Conducted experimental testing of a small-scale heat exchanger using parallel flow, counterflow, and varied operating conditions
   - Measured hot and cold reservoir temperature changes to evaluate heat transfer performance and thermal effectiveness
