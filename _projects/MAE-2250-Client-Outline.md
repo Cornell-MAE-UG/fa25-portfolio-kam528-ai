@@ -3,7 +3,7 @@ layout: project
 title: MAE 2250 Client Outline
 description: Class project on client outline for design
 technologies:
-image: /assets/images/PosterSketch.jpg
+image: /assets/images/PosterSketch.png
 ---
 
 # Spotted Lanternfly Presence During Mechanical Harvesting
@@ -46,7 +46,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 ## Figure
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/PosterSketch.jpg' | relative_url }}" 
+  <img src="{{ '/assets/images/PosterSketch.png' | relative_url }}" 
        alt="Preliminary sketches of prototype ideas developed so far."  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
