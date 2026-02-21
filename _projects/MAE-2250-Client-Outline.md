@@ -21,7 +21,7 @@ We address the problem at a single point in the harvest process. The single modu
 During the harvest process before collection, separate juice from the grape-bug mixture, then separate bugs from grapes. Then, combine the grapes and juice once again in the collection. 
 
 ### Primary Concept:
-**What it is:** Pressurized water tunnel to separate grapes and SLFs. Can use water pressure (Figure 1) or centrifugal force (Figure 2). Filter juice, then filter SLFs, then remix juice/grapes.
+**What it is:** Pressurized water tunnel to separate grapes and SLFs. Can use water pressure **(Figure 1)** or centrifugal force **(Figure 2)**. Filter juice, then filter SLFs, then remix juice/grapes.
 
 **How it would be used:** Apparatus placed in-line between harvester and collection systems.
 
