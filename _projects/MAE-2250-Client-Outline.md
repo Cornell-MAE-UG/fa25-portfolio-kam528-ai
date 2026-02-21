@@ -2,13 +2,13 @@
 layout: project
 title: MAE 2250 Client Outline
 description: Class project on client outline for design
-technologies:
 image: /assets/images/PosterSketch.png
 ---
 
 # Spotted Lanternfly Presence During Mechanical Harvesting
 
-**Team:** Tree of Hell. **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape
+**Team:** Tree of Hell. 
+**Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape
 
 ## Problem statement:
 
