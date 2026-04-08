@@ -15,8 +15,9 @@ image: /assets/images/prototype-main.jpg
 
 <div align="center">
 
-![Prototype Setup](/assets/images/prototype-main.jpg)
-![Concept Sketch](/assets/images/prototype-sketch.jpg)
+![Prototype Setup](/assets/images/prototype-main.png)
+
+![Concept Sketch](/assets/images/prototype-sketch.png)
 
 </div>
 
@@ -26,23 +27,7 @@ The cable system plays a critical role in both load distribution and motion cont
 
 ---
 
-## 🎥 Video of Oscillation Test
-
-<div align="center">
-
-[Watch Video](https://your-video-link-here.com)
-
-</div>
-
----
-
 ## Components
-
-<div align="center">
-
-![Components](/assets/images/components.jpg)
-
-</div>
 
 - **PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)**  
   McMaster Code: 92985T53  
@@ -66,12 +51,6 @@ The aluminum rectangular tubes were drilled to create holes for the adjustable h
 
 ## Mechanical Functionality
 
-<div align="center">
-
-![System Diagram](/assets/images/system-diagram.jpg)
-
-</div>
-
 The system exhibits both vertical and lateral motion characteristics due to its partially suspended design. In the vertical direction, the tray supports the applied load through a combination of bending in the aluminum rods and tension in the cables. The cables reduce the effective load on the rods by redistributing forces to the frame, allowing the system to support higher loads without excessive deformation. Future modifications will allow an adjustable height of basket. In the lateral direction, small oscillations occur when the tray is loaded, but these are limited by the tension in the cables and the stiffness of the frame. This slight movement is beneficial, as it prevents stress concentration and allows the system to dynamically respond to uneven loading.
 
 Load transfer occurs through multiple paths: the applied load is first carried by the perforated sheet, then transferred to the aluminum rods, which experience bending. From there, forces are shared between the cables (tension) and the frame (compression). This multi-path load distribution improves overall structural performance and reduces the likelihood of failure in any single component. The system is self-supporting, with the frame providing a stable base and the cables enhancing load distribution and stability.
@@ -82,7 +61,7 @@ Load transfer occurs through multiple paths: the applied load is first carried b
 
 <div align="center">
 
-![Assembly Sketch](/assets/images/assembly-sketch.jpg)
+![Assembly Sketch](/assets/images/assembly-sketch.png)
 
 </div>
 
@@ -91,12 +70,6 @@ The assembly of the prototype was designed to be modular, adjustable, and easy t
 ---
 
 ## Design Tests
-
-<div align="center">
-
-![Testing Setup](/assets/images/testing.jpg)
-
-</div>
 
 To evaluate the structural performance of the prototype, a load-bearing test was conducted by distributing various weights evenly across the tray to simulate the weight of a grape harvest. Under this loading condition, the system demonstrated high strength and reliability, with minimal deflection observed in the aluminum rods and no signs of failure in the cables or frame. The load was effectively distributed through the combined action of the rods in bending and the cables in tension, confirming that the hybrid support system is capable of handling realistic operating conditions. This will continue to be used for future iterations of our prototype.
 
