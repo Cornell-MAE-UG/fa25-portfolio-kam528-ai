@@ -56,39 +56,39 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 
 # Open Design Project 5: Functional Prototype
+
 ## Design Documentation
 
 ---
 
 ## Overview
 
-<div align="center">
-
-![Prototype Setup](/assets/images/prototype-main.png)
-
-![Concept Sketch](/assets/images/prototype-sketch.png)
-
-</div>
+<p align="center">
+  <img src="/assets/images/prototype-main.png" alt="Prototype Setup">
+  <img src="/assets/images/prototype-sketch.png" alt="Concept Sketch">
+</p>
 
 The design consists of a perforated tray supported by an adjustable aluminum frame and stabilized using a cable suspension system. The perforated PVC sheet acts as the filtration surface, allowing grape juice to pass through while retaining larger solids. This sheet is supported by aluminum rods which distribute the load and prevent excessive sagging. The rods are connected to a vertical frame constructed from aluminum rectangular tubes, which provide structural support and allow for height adjustability. The height adjustment mechanism is achieved by drilling multiple holes into the vertical tubes and inserting dowel pins through aligned holes to lock the structure at different positions. This enables adaptability to different gondola heights and working conditions in the field. Aluminum edge trim is used as an interface to attach the system to a gondola, ensuring that the prototype can be integrated into a real harvesting setup.
 
 The cable system plays a critical role in both load distribution and motion control. Cables connect the tray to the frame, introducing tension-based support that reduces bending stress on the rods and allows for slight compliance under load. This compliance is beneficial, as it absorbs shock when grapes are dumped onto the tray and prevents sudden structural loading. The combination of rigid members (rods and frame) and flexible members (cables) creates a hybrid structure that efficiently manages forces.
 
+[Video of Oscillation Test](#)
+
 ---
 
 ## Components
 
-- **PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)**  
+- PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)  
   McMaster Code: 92985T53  
 
-- **Aluminum Rods (½” Diameter; 8’ Length)**  
+- Aluminum Rods (½” Diameter; 8’ Length)  
   McMaster Code: 8974K28  
 
-- **Aluminum Rectangular Tubes**  
+- Aluminum Rectangular Tubes  
   Inner Tube: 1 ⅛” Height and Width; McMaster Code: 6546K5  
   Outer Tube: 1 ⅜” Height and Width; McMaster Code: 6546K1  
 
-- **Cables (found in the lab)**
+- Cables (found in the lab)
 
 ---
 
@@ -108,11 +108,9 @@ Load transfer occurs through multiple paths: the applied load is first carried b
 
 ## Assembly
 
-<div align="center">
-
-![Assembly Sketch](/assets/images/assembly-sketch.png)
-
-</div>
+<p align="center">
+  <img src="/assets/images/assembly-sketch.png" alt="Assembly Sketch">
+</p>
 
 The assembly of the prototype was designed to be modular, adjustable, and easy to reconfigure. The primary structure consists of a telescoping frame made from aluminum rectangular tubes, where a smaller tube is inserted inside a larger tube. This nested configuration allows the inner tube to slide vertically, enabling height adjustment of the system. Once the desired height is reached, aligned holes in both the inner and outer tubes are secured using aluminum dowel pins, locking the frame in place and preventing unintended movement. After establishing the frame height, aluminum rods are positioned horizontally to support the perforated PVC tray, which is cut to size and aligned with the structure. Cables are then attached from the tray corners to the upper portions of the frame, creating a tension-based support system that helps distribute load and stabilize the tray while still allowing slight compliance. Finally, aluminum edge trim is attached to provide an interface for mounting the system onto a gondola. This assembly approach allows for quick adjustments, secure locking, and efficient setup, making it well-suited for both testing and real-world application.
 
@@ -129,12 +127,6 @@ The dowel system showed promise in the strength tests. However, there was some d
 ---
 
 ## Success Criteria
-
-- Filtration effectiveness ≥ 80% separation  
-- Load capacity ≥ 15 kg without failure  
-- Stability under uneven loading  
-- Height adjustability within one minute  
-- Gondola attachment under two minutes  
 
 The primary success criterion is filtration effectiveness, defined as the ability to separate at least 80% of the liquid from solid material, which can be measured by comparing the volume of collected juice to the initial mass of crushed grapes. Another key criterion is load capacity, where the system must support at least 15 kg without structural failure or excessive deformation, verified through incremental loading tests such as the rock distribution experiment. Stability is also important, with the requirement that the system does not tip or excessively shift under uneven loading conditions. Adjustability is evaluated based on the ability to change the height of the tray within one minute using the dowel pin system. Finally, ease of integration is measured by how quickly and securely the system can be attached to a gondola, with a target time of under two minutes.
 
