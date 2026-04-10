@@ -10,6 +10,8 @@ image: /assets/images/PosterSketch.png
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 
+---
+
 ## Client Pitch
 ## Spotted Lanternfly Presence During Mechanical Harvesting
 
@@ -65,6 +67,8 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ### Functional Prototype Overview
 
+---
+
 ## **Overview**
 
 <p align="center">
@@ -77,6 +81,8 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <p>The cable system plays a critical role in both load distribution and motion control. Cables connect the tray to the frame, introducing tension-based support that reduces bending stress on the rods and allows for slight compliance under load. This compliance is beneficial, as it absorbs shock when grapes are dumped onto the tray and prevents sudden structural loading. The combination of rigid members (rods and frame) and flexible members (cables) creates a hybrid structure that efficiently manages forces.</p>
 
 <p>[Video of Oscillation Test](#)</p>
+
+---
 
 **Components**
 
@@ -92,17 +98,20 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 - Cables (found in the lab)
 
-
+---
 **Fabrication**
 
 <p>The aluminum rectangular tubes were drilled to create holes for the adjustable height mechanism, ensuring proper alignment for dowel pins. The aluminum rods and rectangular tubes were cut to size to form the tray supports and future dowel pins.</p>
 
+---
 
 **Mechanical Functionality**
 
 <p>The system exhibits both vertical and lateral motion characteristics due to its partially suspended design. In the vertical direction, the tray supports the applied load through a combination of bending in the aluminum rods and tension in the cables. The cables reduce the effective load on the rods by redistributing forces to the frame, allowing the system to support higher loads without excessive deformation. Future modifications will allow an adjustable height of basket. In the lateral direction, small oscillations occur when the tray is loaded, but these are limited by the tension in the cables and the stiffness of the frame. This slight movement is beneficial, as it prevents stress concentration and allows the system to dynamically respond to uneven loading.</p>
 
 <p>Load transfer occurs through multiple paths: the applied load is first carried by the perforated sheet, then transferred to the aluminum rods, which experience bending. From there, forces are shared between the cables (tension) and the frame (compression). This multi-path load distribution improves overall structural performance and reduces the likelihood of failure in any single component. The system is self-supporting, with the frame providing a stable base and the cables enhancing load distribution and stability.</p>
+
+---
 
 **Assembly**
 
@@ -122,6 +131,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>The dowel system showed promise in the strength tests. However, there was some difficulty fitting the planned aluminum dowels into the slot, so pencils had to be used instead for now. This test showed us that in future iterations the dowels will need to be machined down on the lathe to have a cap and a slightly thinner diameter.</p>
 
+---
 
 **Success Criteria**
 
@@ -129,6 +139,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>For demonstration purposes, the prototype can be evaluated by pouring a grape-like mixture including SLF models onto the tray and visibly observing the separation of liquid through the perforated sheet. The effectiveness can be quantified by measuring the volume of liquid collected within a fixed time interval, such as 30 seconds, and by ensuring no SLF models make it through and thus contaminating the juice with the quassinoids.</p>
 
+---
 
 **Future Improvements / Conclusion**
 
