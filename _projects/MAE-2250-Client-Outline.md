@@ -89,8 +89,6 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>The cable system plays a critical role in both load distribution and motion control. Cables connect the tray to the frame, introducing tension-based support that reduces bending stress on the rods and allows for slight compliance under load. This compliance is beneficial, as it absorbs shock when grapes are dumped onto the tray and prevents sudden structural loading. The combination of rigid members (rods and frame) and flexible members (cables) creates a hybrid structure that efficiently manages forces.</p>
 
-<p>[Video of Oscillation Test](#)</p>
-
 ---
 
 ### **Components**
