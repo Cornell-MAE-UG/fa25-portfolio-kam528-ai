@@ -69,7 +69,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Overview**
+**Overview**
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
@@ -91,7 +91,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Components**
+**Components**
 
 - PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)  
   McMaster Code: 92985T53  
@@ -106,13 +106,13 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 - Cables (found in the lab)
 
 ---
-### **Fabrication**
+**Fabrication**
 
 <p>The aluminum rectangular tubes were drilled to create holes for the adjustable height mechanism, ensuring proper alignment for dowel pins. The aluminum rods and rectangular tubes were cut to size to form the tray supports and future dowel pins.</p>
 
 ---
 
-### **Mechanical Functionality**
+**Mechanical Functionality**
 
 <p>The system exhibits both vertical and lateral motion characteristics due to its partially suspended design. In the vertical direction, the tray supports the applied load through a combination of bending in the aluminum rods and tension in the cables. The cables reduce the effective load on the rods by redistributing forces to the frame, allowing the system to support higher loads without excessive deformation. Future modifications will allow an adjustable height of basket. In the lateral direction, small oscillations occur when the tray is loaded, but these are limited by the tension in the cables and the stiffness of the frame. This slight movement is beneficial, as it prevents stress concentration and allows the system to dynamically respond to uneven loading.</p>
 
@@ -120,7 +120,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Assembly**
+**Assembly**
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
@@ -134,7 +134,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Design Tests**
+**Design Tests**
 
 <p>To evaluate the structural performance of the prototype, a load-bearing test was conducted by distributing various weights evenly across the tray to simulate the weight of a grape harvest. Under this loading condition, the system demonstrated high strength and reliability, with minimal deflection observed in the aluminum rods and no signs of failure in the cables or frame. The load was effectively distributed through the combined action of the rods in bending and the cables in tension, confirming that the hybrid support system is capable of handling realistic operating conditions. This will continue to be used for future iterations of our prototype.</p>
 
@@ -144,7 +144,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Success Criteria**
+**Success Criteria**
 
 <p>The primary success criterion is filtration effectiveness, defined as the ability to separate at least 80% of the liquid from solid material, which can be measured by comparing the volume of collected juice to the initial mass of crushed grapes. Another key criterion is load capacity, where the system must support at least 15 kg without structural failure or excessive deformation, verified through incremental loading tests such as the rock distribution experiment. Stability is also important, with the requirement that the system does not tip or excessively shift under uneven loading conditions. Adjustability is evaluated based on the ability to change the height of the tray within one minute using the dowel pin system. Finally, ease of integration is measured by how quickly and securely the system can be attached to a gondola, with a target time of under two minutes.</p>
 
@@ -152,6 +152,6 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ---
 
-### **Future Improvements / Conclusion**
+**Future Improvements / Conclusion**
 
 <p>The prototype successfully demonstrates a functional and mechanically sound approach to separating grape juice from solids. The system is strong, adjustable, and capable of supporting realistic loads, as evidenced by the rock distribution tests. The use of a hybrid structure combining rigid and flexible elements provides effective load distribution and resilience. Our final design will incorporate an integrated motor system to actively generate controlled oscillations in the tray, enhancing the sifting behavior and improving the separation efficiency between grape juice and solids. By introducing consistent, tunable vibrations, the system will promote faster liquid flow through the perforations while preventing clogging from skins and stems. In addition, the final iteration will utilize aluminum edge trim to securely attach the structure to the field gondola. This will improve overall stability, ensure proper alignment during operation, and make the system more practical for real-world vineyard integration.</p>
