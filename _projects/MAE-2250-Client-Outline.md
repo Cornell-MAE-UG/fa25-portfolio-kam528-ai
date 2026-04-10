@@ -88,16 +88,23 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 ### Components:
 <br>
 - PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)  
-  McMaster Code: 92985T53  </br>
+  McMaster Code: 92985T53 
+</br>
 <br>
 - Aluminum Rods (½” Diameter; 8’ Length)  
-  McMaster Code: 8974K28  </br>
+  McMaster Code: 8974K28 
+</br>
 <br>
-- Aluminum Rectangular Tubes  </br>
-  Inner Tube: 1 ⅛” Height and Width; McMaster Code: 6546K5  </br>
-  <br>Outer Tube: 1 ⅜” Height and Width; McMaster Code: 6546K1 </br> 
+- Aluminum Rectangular Tubes  
+</br>
+  Inner Tube: 1 ⅛” Height and Width; McMaster Code: 6546K5  
+</br>
 <br>
-- Cables (found in the lab)</br>
+Outer Tube: 1 ⅜” Height and Width; McMaster Code: 6546K1 
+</br> 
+<br>
+- Cables (found in the lab)
+</br>
 
 ### Fabrication:
 
