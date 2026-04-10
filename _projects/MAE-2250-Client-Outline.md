@@ -89,9 +89,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>The cable system plays a critical role in both load distribution and motion control. Cables connect the tray to the frame, introducing tension-based support that reduces bending stress on the rods and allows for slight compliance under load. This compliance is beneficial, as it absorbs shock when grapes are dumped onto the tray and prevents sudden structural loading. The combination of rigid members (rods and frame) and flexible members (cables) creates a hybrid structure that efficiently manages forces.</p>
 
----
-
-**Components**
+### Components
 
 - PVC Perforated Sheet (24” x 24”; 0.188” Diameter Hole to Hole Center)  
   McMaster Code: 92985T53  
@@ -105,22 +103,17 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 - Cables (found in the lab)
 
----
-**Fabrication**
+### Fabrication
 
 <p>The aluminum rectangular tubes were drilled to create holes for the adjustable height mechanism, ensuring proper alignment for dowel pins. The aluminum rods and rectangular tubes were cut to size to form the tray supports and future dowel pins.</p>
 
----
-
-**Mechanical Functionality**
+### Mechanical Functionality
 
 <p>The system exhibits both vertical and lateral motion characteristics due to its partially suspended design. In the vertical direction, the tray supports the applied load through a combination of bending in the aluminum rods and tension in the cables. The cables reduce the effective load on the rods by redistributing forces to the frame, allowing the system to support higher loads without excessive deformation. Future modifications will allow an adjustable height of basket. In the lateral direction, small oscillations occur when the tray is loaded, but these are limited by the tension in the cables and the stiffness of the frame. This slight movement is beneficial, as it prevents stress concentration and allows the system to dynamically respond to uneven loading.</p>
 
 <p>Load transfer occurs through multiple paths: the applied load is first carried by the perforated sheet, then transferred to the aluminum rods, which experience bending. From there, forces are shared between the cables (tension) and the frame (compression). This multi-path load distribution improves overall structural performance and reduces the likelihood of failure in any single component. The system is self-supporting, with the frame providing a stable base and the cables enhancing load distribution and stability.</p>
 
----
-
-**Assembly**
+### Assembly
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
@@ -132,9 +125,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>The assembly of the prototype was designed to be modular, adjustable, and easy to reconfigure. The primary structure consists of a telescoping frame made from aluminum rectangular tubes, where a smaller tube is inserted inside a larger tube. This nested configuration allows the inner tube to slide vertically, enabling height adjustment of the system. Once the desired height is reached, aligned holes in both the inner and outer tubes are secured using aluminum dowel pins, locking the frame in place and preventing unintended movement. After establishing the frame height, aluminum rods are positioned horizontally to support the perforated PVC tray, which is cut to size and aligned with the structure. Cables are then attached from the tray corners to the upper portions of the frame, creating a tension-based support system that helps distribute load and stabilize the tray while still allowing slight compliance. Finally, aluminum edge trim is attached to provide an interface for mounting the system onto a gondola. This assembly approach allows for quick adjustments, secure locking, and efficient setup, making it well-suited for both testing and real-world application.</p>
 
----
-
-**Design Tests**
+### Design Tests
 
 <p>To evaluate the structural performance of the prototype, a load-bearing test was conducted by distributing various weights evenly across the tray to simulate the weight of a grape harvest. Under this loading condition, the system demonstrated high strength and reliability, with minimal deflection observed in the aluminum rods and no signs of failure in the cables or frame. The load was effectively distributed through the combined action of the rods in bending and the cables in tension, confirming that the hybrid support system is capable of handling realistic operating conditions. This will continue to be used for future iterations of our prototype.</p>
 
@@ -142,16 +133,12 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <p>The dowel system showed promise in the strength tests. However, there was some difficulty fitting the planned aluminum dowels into the slot, so pencils had to be used instead for now. This test showed us that in future iterations the dowels will need to be machined down on the lathe to have a cap and a slightly thinner diameter.</p>
 
----
-
-**Success Criteria**
+### Success Criteria
 
 <p>The primary success criterion is filtration effectiveness, defined as the ability to separate at least 80% of the liquid from solid material, which can be measured by comparing the volume of collected juice to the initial mass of crushed grapes. Another key criterion is load capacity, where the system must support at least 15 kg without structural failure or excessive deformation, verified through incremental loading tests such as the rock distribution experiment. Stability is also important, with the requirement that the system does not tip or excessively shift under uneven loading conditions. Adjustability is evaluated based on the ability to change the height of the tray within one minute using the dowel pin system. Finally, ease of integration is measured by how quickly and securely the system can be attached to a gondola, with a target time of under two minutes.</p>
 
 <p>For demonstration purposes, the prototype can be evaluated by pouring a grape-like mixture including SLF models onto the tray and visibly observing the separation of liquid through the perforated sheet. The effectiveness can be quantified by measuring the volume of liquid collected within a fixed time interval, such as 30 seconds, and by ensuring no SLF models make it through and thus contaminating the juice with the quassinoids.</p>
 
----
-
-**Future Improvements / Conclusion**
+### Future Improvements / Conclusion**
 
 <p>The prototype successfully demonstrates a functional and mechanically sound approach to separating grape juice from solids. The system is strong, adjustable, and capable of supporting realistic loads, as evidenced by the rock distribution tests. The use of a hybrid structure combining rigid and flexible elements provides effective load distribution and resilience. Our final design will incorporate an integrated motor system to actively generate controlled oscillations in the tray, enhancing the sifting behavior and improving the separation efficiency between grape juice and solids. By introducing consistent, tunable vibrations, the system will promote faster liquid flow through the perforations while preventing clogging from skins and stems. In addition, the final iteration will utilize aluminum edge trim to securely attach the structure to the field gondola. This will improve overall stability, ensure proper alignment during operation, and make the system more practical for real-world vineyard integration.</p>
