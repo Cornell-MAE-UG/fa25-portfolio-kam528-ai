@@ -12,8 +12,7 @@ image: /assets/images/PosterSketch.png
 
 ---
 
-## Client Pitch
-## Spotted Lanternfly Presence During Mechanical Harvesting
+## Client Pitch 
 
 **Team:** Tree of Hell. 
 **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape
@@ -65,11 +64,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 ## Functional Prototype
 
-### Functional Prototype Overview
-
----
-
-**Overview**
+### Overview
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
