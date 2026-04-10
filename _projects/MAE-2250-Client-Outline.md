@@ -57,7 +57,8 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Preliminary sketches of prototype ideas developed so far.</strong>
-
+  </figcaption>
+</figure>
 
 
 ## Functional Prototype
