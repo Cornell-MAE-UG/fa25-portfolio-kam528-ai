@@ -159,12 +159,20 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/gondola.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/gondola.png' | relative_url }}" 
        alt="Harvester and Field Gondola"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Harvester and Field Gondola</strong>
   </figcaption>
+</figure>
+
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/assembly-sketch.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
 </figure>
 
 <figure style="text-align: center; width: 100%;">
