@@ -13,7 +13,8 @@ image: /assets/images/PosterSketch.png
 
 ---
 
-## Client Pitch 
+<a id="client-pitch"></a>
+<h1>Client Pitch</h1>
 
 **Team:** Tree of Hell. 
 **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape
@@ -63,7 +64,8 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 </figure>
 
 
-## Functional Prototype
+<a id="functional-prototype"></a>
+<h1>Functional Prototype</h1>
 
 <h3>Overview</h3>
 
