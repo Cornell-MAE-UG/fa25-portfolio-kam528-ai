@@ -142,7 +142,8 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <p>The prototype successfully demonstrates a functional and mechanically sound approach to separating grape juice from solids. The system is strong, adjustable, and capable of supporting realistic loads, as evidenced by the rock distribution tests. The use of a hybrid structure combining rigid and flexible elements provides effective load distribution and resilience. Our final design will incorporate an integrated motor system to actively generate controlled oscillations in the tray, enhancing the sifting behavior and improving the separation efficiency between grape juice and solids. By introducing consistent, tunable vibrations, the system will promote faster liquid flow through the perforations while preventing clogging from skins and stems. In addition, the final iteration will utilize aluminum edge trim to securely attach the structure to the field gondola. This will improve overall stability, ensure proper alignment during operation, and make the system more practical for real-world vineyard integration.</p>
 
 
-## Client Report
+<a id="client-report"></a>
+<h1>Client Report</h1>
 
 <h3>Context and Problem Statement</h3>
 
