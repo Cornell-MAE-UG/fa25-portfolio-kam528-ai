@@ -160,7 +160,7 @@ The final prototype consists of a perforated PVC tray supported by an adjustable
 
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/MAE2250/gondola.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/gondola.png' | relative_url }}" 
        alt="Harvester and Field Gondola"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
@@ -169,7 +169,7 @@ The final prototype consists of a perforated PVC tray supported by an adjustable
 </figure>
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/MAE2250/prototypefinal.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/prototypefinal.png' | relative_url }}" 
        alt="Left: Prototype mounted in mock gondola; Right: view of tray"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
@@ -191,7 +191,7 @@ To evaluate how efficiently liquid could pass through the filtration surface, dr
 
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/MAE2250/watertest.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/watertest.png' | relative_url }}" 
        alt="Left: view of first test; Right: View of second test"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
@@ -203,7 +203,7 @@ To evaluate how efficiently liquid could pass through the filtration surface, dr
 To test whether the prototype could support the weight of harvested material, a static load test was conducted. Weight was added to the straining surface until the prototype reached the maximum tested load of 100 pounds. During this test, the system remained structurally sound and did not show failure under the applied load. This result shows that the frame and tray are capable of supporting a significant amount of material, which is important because the device must operate inside a gondola during harvesting.
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/MAE2250/statictest.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/statictest.png' | relative_url }}" 
        alt="View of capacity test at maximum weight."  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
@@ -215,7 +215,7 @@ To test whether the prototype could support the weight of harvested material, a 
 To simulate grapes falling onto the straining surface during harvesting, a dynamic load test was performed by dropping bolts from a height of 1 meter onto the tray. Each bolt weighed 14.3 grams, and 40 bolts were dropped during each trial. The bolts were used to approximate impact loading from falling grapes, which are about 5 grams each. The prototype withstood the repeated impacts without visible failure, showing that the tray and support structure can handle sudden loading during use.
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/assets/images/MAE2250/dynamictest.png' | relative_url }}" 
+  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/dynamictest.png' | relative_url }}" 
        alt="View of Dynamic Load Test."  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
