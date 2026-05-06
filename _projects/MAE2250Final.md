@@ -158,11 +158,11 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <p>The final prototype consists of a perforated PVC tray supported by an adjustable aluminum frame and stabilized using a cable suspension system, and enhanced with a motor-driven linkage that generates controlled vibrations. The perforated tray acts as the filtration surface, allowing grape juice to pass through while retaining larger solids, including SLF material. The tray is supported by aluminum rods that distribute the load and reduce bending under weight. These rods are connected to a vertical telescoping frame made from aluminum rectangular tubing. The height of each hook can be adjusted using a pin-based locking mechanism, allowing it to adapt to different harvesting setups. A cable system connects the tray to the upper frame, providing tension-based support. This reduces stress on the rods and allows slight controlled motion when the system is loaded. This motion helps absorb impact and improves durability when grapes are dumped onto the tray. The motor linkage system induces controlled vibrations in the tray during operation. These vibrations help prevent grape skins and other solids from clogging the perforations, allowing liquid to pass through more efficiently. This improves filtration performance and increases the amount of usable juice collected. In application, the system is mounted onto a gondola during harvesting. Grapes and SLF are deposited onto the tray, where the vibrating filtration surface allows juice to pass through while retaining grapes and contaminants. This improves both product quality and total usable yield</p>
 
 
-
-<figure style="text-align: center; width: 100%;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/gondola.png.png' | relative_url" 
-       alt="Harvester and Field Gondola"  
-       style="width: 100%;">
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/gondola.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Harvester and Field Gondola</strong>
   </figcaption>
@@ -171,16 +171,10 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
   <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/assembly-sketch.png"
+  <img src="/fa25-portfolio-kam528-ai/assets/images/prototypefinal.png"
        alt="Assembly Sketch"
        style="width:100%; max-width:420px; border-radius:8px;">
-</figure>
-
-<figure style="text-align: center; width: 100%;">
-  <img src="/fa25-portfolio-kam528-ai/assets/images/prototypefinal.png' | relative_url }}" 
-       alt="Left: Prototype mounted in mock gondola; Right: view of tray"  
-       style="width: 100%;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
+    <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Left: Prototype mounted in mock gondola; Right: view of tray</strong>
   </figcaption>
 </figure>
@@ -198,10 +192,11 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <p>To evaluate how efficiently liquid could pass through the filtration surface, draining flow rate was tested under two input conditions. In the first test, a water bottle was held directly above the sheet so that the surface stayed flat and the water flowed vertically through the holes. This test measured a flow rate of 3.26 ounces per second per square inch. In the second test, water was poured several inches above the sheet, allowing the flow to spread across the surface more like it would during harvesting. These tests showed that the perforated tray allows liquid to drain while keeping larger solid material on top of the surface. The results support the goal of preserving usable juice while separating out solids and possible SLF contamination.</p>
 
 
-<figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/watertest.png' | relative_url }}" 
-       alt="Left: view of first test; Right: View of second test"  
-       style="width: 100%;">
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/watertest.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Left: view of first test; Right: View of second test</strong>
   </figcaption>
@@ -210,10 +205,11 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <h3>Static Load Capacity:</h3>
 <p>To test whether the prototype could support the weight of harvested material, a static load test was conducted. Weight was added to the straining surface until the prototype reached the maximum tested load of 100 pounds. During this test, the system remained structurally sound and did not show failure under the applied load. This result shows that the frame and tray are capable of supporting a significant amount of material, which is important because the device must operate inside a gondola during harvesting.</p>
 
-<figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/statictest.png' | relative_url }}" 
-       alt="View of capacity test at maximum weight."  
-       style="width: 100%;">
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/statictest.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>View of capacity test at maximum weight.</strong>
   </figcaption>
@@ -222,10 +218,11 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 <h3>Dynamic Load:</h3>
 <p>To simulate grapes falling onto the straining surface during harvesting, a dynamic load test was performed by dropping bolts from a height of 1 meter onto the tray. Each bolt weighed 14.3 grams, and 40 bolts were dropped during each trial. The bolts were used to approximate impact loading from falling grapes, which are about 5 grams each. The prototype withstood the repeated impacts without visible failure, showing that the tray and support structure can handle sudden loading during use.</p>
 
-<figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/dynamictest.png' | relative_url }}" 
-       alt="View of Dynamic Load Test."  
-       style="width: 100%;">
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 16px 0;">
+  <figure style="margin:0; text-align:center; max-width:420px; width:100%;">
+  <img src="/fa25-portfolio-kam528-ai/assets/images/dynamictest.png"
+       alt="Assembly Sketch"
+       style="width:100%; max-width:420px; border-radius:8px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>View of Dynamic Load Test.</strong>
   </figcaption>
