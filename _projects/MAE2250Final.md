@@ -160,7 +160,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/gondola.png' | relative_url }}" 
+  <img src="/fa25-portfolio-kam528-ai/assets/images/gondola.png.jpg' | relative_url" 
        alt="Harvester and Field Gondola"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
@@ -177,7 +177,7 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
 </figure>
 
 <figure style="text-align: center; width: 100%;">
-  <img src="{{ '/fa25-portfolio-kam528-ai/assets/images/MAE2250/prototypefinal.png' | relative_url }}" 
+  <img src="/fa25-portfolio-kam528-ai/assets/images/prototypefinal.png' | relative_url }}" 
        alt="Left: Prototype mounted in mock gondola; Right: view of tray"  
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
