@@ -4,7 +4,8 @@ title: MAE 2250 Client Outline
 description: Class project on client outline for design
 #image: /assets/images/PosterSketch.png
 image:
-thumbnail: /fa25-portfolio-kam528-ai/assets/images/PosterSketch.png
+thumbnail: /assets/images/PosterSketch.png
+#thumbnail: /fa25-portfolio-kam528-ai/assets/images/PosterSketch.png
 ---
 
 ## Project Navigation
