@@ -4,7 +4,7 @@ title: Electrostatic Gate Design
 description: 
 technologies: [Fusion360, CNC Machining, Milling, Laser Cutting, Manual Machining, Assembly]
 image: 
-thumbnail: /assets/images/Fullwingcad.png ######ADD PICTURE!!!
+thumbnail: /assets/images/full_gate.png
 ---
 ## Project Navigation
 
@@ -20,12 +20,65 @@ thumbnail: /assets/images/Fullwingcad.png ######ADD PICTURE!!!
 
 <a id="project-overview"></a>
 <h1>Project Overview</h1>
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/full_gate.png' | relative_url }}" 
+       alt="Image of Electrostatic Gate for Time-of-Flight Diagnostics"  
+       style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
+    <strong>Electrostatic Gate for Time-of-Flight Diagnostics</strong>
+  </figcaption>
+</figure>
+
+Designed and manufactured a custom electrostatic gate
+to improve the accuracy and repeatability of Time-of-
+Flight diagnostics for electrospray propulsion research.
+
+
+<div style="float:right; width:275px; border:1px solid #d0d7de; border-radius:8px; padding:16px; margin:0 0 20px 20px; background:#f8f9fa; font-size:0.95em;">
+
+<h3 style="margin-top:0;">Project Details</h3>
+
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+<td><strong>Role</strong></td>
+<td>Mechanical Design Engineer</td>
+</tr>
+
+<tr>
+<td><strong>Software</strong></td>
+<td>Fusion 360</td>
+</tr>
+
+<tr>
+<td><strong>Manufacturing</strong></td>
+<td>CNC Machining<br>
+Milling<br>
+Laser Cutting<br>
+Manual Machining<br>
+Assembly</td>
+</tr>
+
+<tr>
+<td><strong>Materials</strong></td>
+<td>Aluminum<br>PEEK</td>
+</tr>
+
+<tr>
+<td><strong>Duration</strong></td>
+<td>Spring 2026<br>1 Semester</td>
+</tr>
+
+</table>
+
+</div>
+
+
 The purpose of this project was to design and manufacture a new electrostatic gate for a Time-of-Flight (TOF) diagnostic system used to characterize the ionic species produced by an electrospray propulsion source. TOF diagnostics measure the flight time of charged particles traveling to a microchannel plate (MCP) detector, allowing researchers to identify and quantify monomers, dimers, and other charged droplets that contribute to propulsion.
 
 The previous electrostatic gate introduced uncertainty into these measurements because particles could bypass the active gating region before entering the TOF tube. This reduced the accuracy and repeatability of the collected data, making it more difficult to characterize the performance of the electrospray thruster.
 
 To address this issue, I independently designed, manufactured, and assembled a completely new electrostatic gate that improves particle confinement, alignment with the TOF tube, and experimental flexibility while integrating directly into the laboratory's existing vacuum chamber. This project combined mechanical design, precision manufacturing, electrical isolation, and experimental hardware integration to create a more reliable diagnostic system for electrospray propulsion research.
-##### Hero photo of finished assembly, One sentence project summary, CAD render, Small "Project Information" box (Role, Software, Manufacturing, Duration)
+
 
 <a id="problem"></a>
 <h1>Problem</h1>
