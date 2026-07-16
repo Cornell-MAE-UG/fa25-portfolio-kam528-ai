@@ -20,6 +20,7 @@ thumbnail: /assets/images/full_gate.png
 
 <a id="project-overview"></a>
 <h1>Project Overview</h1>
+
 <figure style="text-align: center; width: 100%;">
   <img src="{{ '/assets/images/full_gate.png' | relative_url }}" 
        alt="Image of Electrostatic Gate for Time-of-Flight Diagnostics"  
@@ -82,9 +83,30 @@ To address this issue, I independently designed, manufactured, and assembled a c
 
 <a id="problem"></a>
 <h1>Problem</h1>
+
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/TOF_system_diagram.png' | relative_url }}"
+       alt="Time-of-Flight Diagnostic System Diagram"
+       style="width: 100%; max-width: 1200px; height: auto;">
+
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
+    <strong>Figure 1.</strong> Simplified Time-of-Flight (TOF) diagnostic system showing the electrospray source, electrostatic gate, flight tube, and microchannel plate (MCP) detector.s
+  </figcaption>
+</figure>
+
 The performance of an electrospray propulsion system depends on accurately measuring the ionic species it produces. Using a Time-of-Flight (TOF) diagnostic system, researchers determine the mass-to-charge ratio of charged particles by measuring the time required for them to travel from the electrostatic gate to a microchannel plate (MCP) detector.
 
 The original electrostatic gate limited the accuracy of these measurements because its open geometry allowed charged particles to travel around the active gating region and still reach the detector. These unwanted particles introduced additional signals that reduced measurement accuracy and made it more difficult to distinguish between monomers, dimers, and other ionic species.
+
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/OG_gate.png' | relative_url }}"
+       alt="Original Electrostatic Gate"
+       style="width: 80%; height: auto;">
+
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
+    <strong>Figure 2.</strong> Original electrostatic gate used for Time-of-Flight (TOF) diagnostics.
+  </figcaption>
+</figure>
 
 Because the electrostatic gate establishes the starting point of every TOF measurement, improving its design was essential for producing more reliable, repeatable, and accurate experimental data.
 ### Picture of the original gate, Annotated picture showing where particles could escape, Simple TOF system diagram, Optional comparison: Old Gate vs. New Gate
