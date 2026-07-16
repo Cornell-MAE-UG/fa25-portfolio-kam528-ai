@@ -214,7 +214,7 @@ To improve flexibility for future experiments, the gate was designed as a modula
        style="width: 100%; height: auto;">
 
   <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
-    <strong>Figure X.</strong> Cross-sectional view of the redesigned electrostatic gate assembly illustrating the entrance box, electrodes, PEEK insulating blocks, gate aperture, TOF tube, and particle path toward the microchannel plate (MCP) detector.
+    <strong>Cross-sectional view of the redesigned electrostatic gate assembly illustrating the entrance box, electrodes, PEEK insulating blocks, gate aperture, TOF tube, and particle path toward the microchannel plate (MCP) detector.</strong>
   </figcaption>
 </figure>
 
@@ -241,8 +241,6 @@ The front electrode housing was CNC machined from aluminum to achieve the requir
 To electrically isolate the high-voltage electrodes from the aluminum housing, custom PEEK insulating blocks were incorporated into the design. These insulators prevent electrical shorting while maintaining accurate electrode positioning inside the vacuum chamber.
 
 After fabrication, I assembled the complete system and mounted it to an optical breadboard using an adjustable optical post. This mounting method allows precise alignment with the Time-of-Flight tube and MCP detector while also providing the flexibility to swap the front gate assembly for future experimental configurations.
-##### CNC machining photos, Milling photos, Laser-cut part, Student machine shop, Assembly sequence, Finished assembly, PEEK insulators highlighted
-
 
 
 <a id="results"></a>
@@ -254,7 +252,7 @@ After fabrication, I assembled the complete system and mounted it to an optical 
        style="width: 100%; height: auto;">
 
   <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
-    <strong>Figure X.</strong> The completed electrostatic gate installed inside the vacuum chamber and aligned with the Time-of-Flight (TOF) diagnostic system. The assembly is positioned to provide a controlled ion entry point into the TOF tube while maintaining precise alignment with the microchannel plate (MCP) detector.
+    <strong> The completed electrostatic gate installed inside the vacuum chamber and aligned with the Time-of-Flight (TOF) diagnostic system. The assembly is positioned to provide a controlled ion entry point into the TOF tube while maintaining precise alignment with the microchannel plate (MCP) detector.</strong>
   </figcaption>
 </figure>
 
