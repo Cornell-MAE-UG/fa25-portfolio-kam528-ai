@@ -115,17 +115,77 @@ Because the electrostatic gate establishes the starting point of every TOF measu
 
 <a id="design-requirements"></a>
 <h1>Design Requirements</h1>
-The redesigned electrostatic gate was developed to satisfy several mechanical, electrical, and experimental requirements.
+The redesigned electrostatic gate was developed to address the limitations of the previous system while improving the accuracy, reliability, and flexibility of Time-of-Flight (TOF) diagnostics. The design process required balancing mechanical, electrical, and experimental considerations to ensure the gate integrated seamlessly with the existing vacuum chamber while producing more consistent and repeatable measurements. The key design requirements and the solutions implemented to satisfy them are summarized below.
 
-- Prevent particles from bypassing the active gating region.
-- Produce a precise and repeatable starting point for Time-of-Flight measurements.
-- Improve alignment between the gate, TOF tube, and MCP detector.
-- Electrically isolate the high-voltage electrodes from the aluminum housing.
-- Allow precise adjustment of gate position inside the vacuum chamber.
-- Support interchangeable gate assemblies for future experimental configurations.
-- Integrate with the laboratory's existing vacuum chamber and diagnostic hardware.
-- Be manufacturable using available machine shop equipment while maintaining tight dimensional tolerances.
-# Requirement table, Labeled CAD model, Cross-section of gate
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:0.95em;">
+  <thead>
+    <tr style="background-color:#f3f4f6;">
+      <th style="border:1px solid #d1d5db; padding:12px; text-align:left;">Design Requirement</th>
+      <th style="border:1px solid #d1d5db; padding:12px; text-align:left;">Design Solution</th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Prevent particles from bypassing the active gating region
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Designed an enclosed aluminum housing connected directly to the TOF tube, forcing particles to pass through the electrostatic gate before reaching the detector.
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Improve Time-of-Flight measurement accuracy
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Reduced the entrance aperture and optimized electrode spacing to better control the electric field and produce a more precise gating event.
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Electrically isolate the high-voltage electrodes
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Integrated custom PEEK insulating blocks between the electrodes and the aluminum housing to prevent electrical shorting inside the vacuum chamber.
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Improve alignment with the TOF tube and MCP detector
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Mounted the assembly to an adjustable optical post and breadboard, allowing precise positioning and alignment within the vacuum chamber.
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Support future experimental configurations
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Designed the front electrode housing as a modular component that can be replaced or modified without redesigning the complete assembly.
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Manufacture using available laboratory resources
+      </td>
+      <td style="border:1px solid #d1d5db; padding:12px;">
+        Designed components for CNC machining, manual milling, laser cutting, and straightforward assembly using equipment available in the Cornell machine shops.
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+Each design decision was driven by the goal of improving the performance of the TOF diagnostic system. By enhancing particle confinement, electric field control, mechanical alignment, electrical isolation, and modularity, the redesigned electrostatic gate provides a more reliable platform for accurately characterizing the ionic species produced by the electrospray propulsion source while remaining adaptable for future experimental needs.
+
 
 
 <a id="design-process"></a>
