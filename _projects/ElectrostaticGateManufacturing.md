@@ -190,6 +190,16 @@ Each design decision was driven by the goal of improving the performance of the 
 
 <a id="design-process"></a>
 <h1>Design Process</h1>
+
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/full_CAD_diagram.png' | relative_url }}"
+       alt="Labeled CAD diagram of the electrostatic gate and Time-of-Flight diagnostic system"
+       style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
+    <strong>CAD Diagram of the Electrostatic Gate and Time-of-Flight Diagnostic System</strong>
+  </figcaption>
+</figure>
+
 The design process began by evaluating the shortcomings of the previous electrostatic gate and identifying the primary sources of measurement uncertainty. The largest issue was that charged particles could bypass the electric field by traveling around the open sides of the gate before entering the Time-of-Flight tube.
 
 To eliminate this problem, I designed a completely new electrostatic gate assembly in Fusion 360. The redesigned system features an enclosed aluminum electrode housing connected directly to a cylindrical tube leading into the TOF chamber. This enclosed geometry forces particles to pass through the active gating region before entering the detector, greatly reducing unwanted signals.
@@ -197,7 +207,17 @@ To eliminate this problem, I designed a completely new electrostatic gate assemb
 The entrance aperture was reduced and the spacing between the electrodes was optimized to improve electric field control. During operation, voltage applied across the electrodes creates an electric field that deflects incoming charged particles away from the detector. When the voltage is switched off, particles are allowed to pass through the aperture, creating a well-defined starting point for Time-of-Flight measurements.
 
 To improve flexibility for future experiments, the gate was designed as a modular assembly. The front electrode housing can be replaced with alternate designs while the entire system mounts to an adjustable optical post attached to an optical breadboard, allowing precise alignment with the TOF tube and MCP detector.
-# CAD evolution (Version 1 → Version 2 → Final), Exploded assembly, Section view, Render of entire assembly, Sketches (if you have them)
+
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/sideview.png' | relative_url }}"
+       alt="Cross-Sectional View of Electrostatic Gate Assembly"
+       style="width: 100%; height: auto;">
+
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
+    <strong>Figure X.</strong> Cross-sectional view of the redesigned electrostatic gate assembly illustrating the entrance box, electrodes, PEEK insulating blocks, gate aperture, TOF tube, and particle path toward the microchannel plate (MCP) detector.
+  </figcaption>
+</figure>
+
 
 
 <a id="engineering-analysis"></a>
