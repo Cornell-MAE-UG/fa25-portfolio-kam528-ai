@@ -228,7 +228,7 @@ To improve flexibility for future experiments, the gate was designed as a modula
 </figure>
 
 
-##### ADDDD TO THISSSSSS!!!!!
+# ADDDD TO THISSSSSS!!!!!
 <a id="engineering-analysis"></a>
 <h1>Engineering Analysis</h1>
 The electrostatic gate operates by controlling the motion of charged particles using an electric field generated between two closely spaced electrodes located at the entrance of the gate.
@@ -238,14 +238,13 @@ When voltage is applied, the electric field deflects ions away from the Time-of-
 Several geometric design decisions were made to improve the performance of the gate. Reducing the entrance aperture and decreasing the spacing between the electrodes concentrates the electric field within the active gating region, while the enclosed tube prevents particles traveling outside the intended trajectory from reaching the detector. Together, these features reduce background signals and improve the repeatability and accuracy of TOF measurements.
 
 Future work will include mechanical fastener calculations, electric field characterization, and experimental validation of gate performance through comparison of TOF spectra before and after the redesign.
-### Gate ON diagram (particles deflected), Gate OFF diagram (particles pass through), Electric field illustration, Future calculations, FEA or field simulation (if you perform one later)
 
 
 <a id="manufacturing"></a>
 <h1>Manufacturing</h1>
 The electrostatic gate was manufactured using multiple precision fabrication techniques to produce a vacuum-compatible assembly.
 
-The front electrode housing was CNC machined from aluminum to achieve the required dimensional accuracy and precise electrode alignment. The connecting tube was milled from aluminum stock before being integrated into the assembly. Additional structural components were produced using laser-cut aluminum or manufactured in the Cornell student machine shop.
+The front electrode housing was CNC machined from aluminum to achieve the required dimensional accuracy and precise electrode alignment. The connecting tube was milled from aluminum stock before being integrated into the assembly. Additional structural components were laser cut from aluminum or manufactured in the Cornell student machine shop. Vented socket head cap screws were used throughout the assembly to prevent trapped air within the fasteners during vacuum pump-down, making the system suitable for high-vacuum operation.
 
 To electrically isolate the high-voltage electrodes from the aluminum housing, custom PEEK insulating blocks were incorporated into the design. These insulators prevent electrical shorting while maintaining accurate electrode positioning inside the vacuum chamber.
 
