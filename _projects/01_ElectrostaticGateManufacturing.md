@@ -29,6 +29,15 @@ thumbnail: /assets/images/full_gate.png
     <strong>Electrostatic Gate for Time-of-Flight Diagnostics</strong>
   </figcaption>
 </figure>
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ '/assets/images/gate_inside_chamber.png' | relative_url }}"
+       alt="Electrostatic Gate Installed Inside the Vacuum Chamber"
+       style="width: 100%; height: auto;">
+
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666;">
+    <strong> The completed electrostatic gate installed inside the vacuum chamber.</strong>
+  </figcaption>
+</figure>
 
 Designed and manufactured a custom electrostatic gate
 to improve the accuracy and repeatability of Time-of-
