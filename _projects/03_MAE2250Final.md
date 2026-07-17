@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 Client Outline
+title: Harvest Gondola Sifter Prototype
 description: Class project on client outline for design
 #image: /assets/images/PosterSketch.png
 image:
