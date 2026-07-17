@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kathryn Moskal - Curriculum Vitae
+title: Kathryn Moskal - Resume
 permalink: /cv/
 ---
 <!--## Curriculum Vitae -->
@@ -51,13 +51,6 @@ permalink: /cv/
   - Compared parallel-flow and counterflow configurations, observing temperature crossover behavior unique to counterflow operation
   - Investigated the effects of increased hot inlet temperature and reduced hot-side mass flow rate on system behavior
   - Performed mass, energy, and entropy balance calculations to assess heat losses and irreversibility in a real system
-
----
-
-#### Achievements & Certifications
-- GE STAR Scholarship, General Elecric Vernova, 2024 
-
----
 
 <!--#### Extracurricular Activities
 - Member of [Project Team Design Build Fly]  
