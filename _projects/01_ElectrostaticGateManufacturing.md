@@ -118,7 +118,6 @@ The original electrostatic gate limited the accuracy of these measurements becau
 </figure>
 
 Because the electrostatic gate establishes the starting point of every TOF measurement, improving its design was essential for producing more reliable, repeatable, and accurate experimental data.
-### Picture of the original gate, Annotated picture showing where particles could escape, Simple TOF system diagram, Optional comparison: Old Gate vs. New Gate
 
 
 
@@ -228,7 +227,9 @@ To improve flexibility for future experiments, the gate was designed as a modula
 </figure>
 
 
-# ADDDD TO THISSSSSS!!!!! Vented Socket Head Cap Screws analysis
+<!-- ADDDD TO THISSSSSS!!!!! Vented Socket Head Cap Screws analysis -->
+
+
 <a id="engineering-analysis"></a>
 <h1>Engineering Analysis</h1>
 The electrostatic gate operates by controlling the motion of charged particles using an electric field generated between two closely spaced electrodes located at the entrance of the gate.
